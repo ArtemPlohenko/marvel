@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## The following packages must be installed for the project: (npm i sass, npm i react-router-dom)
+
 ## Available Scripts
 
 In the project directory, you can run:
